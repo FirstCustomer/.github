@@ -1,11 +1,12 @@
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/9d50b13c-eda4-4d34-9ad6-f9ccc0837622" 
+    src="https://github.com/user-attachments/assets/35953cb9-7445-4bbc-80b7-9ba05db6ebb2" 
     alt="FirstCustomer" 
     style="max-width:300px; width:30%; height:auto;" 
   />
 </p>
+
 
 # FirstCustomer.ai – Building your FirstCustomer
 
